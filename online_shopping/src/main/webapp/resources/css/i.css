@@ -1,0 +1,59 @@
+
+footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+   .image1 img{
+
+      height: 100%;
+    width: 100%;
+    margin-left: -0%;
+    margin-top: -5%;
+}
+
+
+.homesub h2{
+    width: 70%;
+    position: absolute;
+    margin-top: -15%;
+    color: black;
+    margin-left: 18%;
+    font-size: 30px;
+}
+
+.homesub-2 h1{
+    width: 33%;
+    position: absolute;
+    margin-top: -27%;
+    color: black;
+    margin-left: 35%;
+    font-size: 60px;
+}
+
+
+.homesub-3 h1{
+    width: 40%;
+    position: absolute;
+    margin-top: -20%;
+    color: black;
+    margin-left: 30%;
+    font-size: 40px;
+}
+
+
+.col-sm-3{
+	
+	width:33%;
+	
+}
+.img-responsive{
+
+      height: 50%;
+    width: 50%;
+    margin-left: -0%;
+    margin-top: -5%;
+
+
+}
+
