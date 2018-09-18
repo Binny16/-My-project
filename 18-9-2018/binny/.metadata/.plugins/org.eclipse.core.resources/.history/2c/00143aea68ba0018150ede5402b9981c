@@ -1,0 +1,11 @@
+package com.niit.models;
+
+@Entity
+public class CustomerOrder {
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+private int orderId;
+private Date purchaseDate;
+private double grandTotal;
+@ManyToOne(cascade=CascadeType.ALL)
+private User user;

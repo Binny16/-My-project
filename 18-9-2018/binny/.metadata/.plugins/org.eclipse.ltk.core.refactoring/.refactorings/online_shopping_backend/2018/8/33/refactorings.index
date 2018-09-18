@@ -1,0 +1,19 @@
+1534139863449	Delete element
+1534140276882	Delete element
+1534140283900	Delete element
+1534140953268	Delete element
+1534140960052	Delete element
+1534143796481	Delete element
+1534486884279	Rename type 'cart_items'
+1534486906270	Rename type 'category'
+1534486930626	Rename type 'shipment_address'
+1534486953242	Rename type 'supplier'
+1534487332752	Delete element
+1534487856176	Delete element
+1534488471518	Delete element
+1534591945434	Rename type 'cart_itemsDao'
+1534591963179	Rename type 'cart_itemsDaoImpl'
+1534591999213	Rename type 'categoryDao'
+1534592015940	Rename type 'categoryDaoImpl'
+1534592041454	Rename type 'shipment_addressDao'
+1534592062226	Rename type 'shipment_addressDaoImpl'

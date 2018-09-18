@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+G:\binny\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4116901615.index
+3185172335.index
+2104193185.index
+4033184305.index
+175139432.index
+105972076.index
+2994559409.index
+2397220302.index

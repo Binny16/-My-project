@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Sep 18 18:34:20 IST 2018
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\binny\\.m2\\repository\\org\\springframework\\spring-web\\4.3.5.RELEASE\\spring-web-4.3.5.RELEASE.jar=WEB-INF/lib/spring-web-4.3.5.RELEASE.jar
+org.eclipse.jst.j2ee.server\:online_shopping_backend=WEB-INF/lib/online_shopping_backend-0.0.1-SNAPSHOT.jar

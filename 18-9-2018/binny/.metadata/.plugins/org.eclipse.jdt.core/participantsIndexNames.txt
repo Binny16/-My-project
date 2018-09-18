@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2733001985.index
+\Ecommerce\src\main\java
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1008422082.index
+\online_shopping\src\main\java
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3782401132.index
+\online_shopping\src\main\resources
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1268945771.index
+\Ecommerce\src\main\java
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4224115598.index
+\online_shopping\src\main\java
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\795334924.index
+\Ecommerce\src\main\java
+G:\binny\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4033184305.index
+\online_shopping\src\main\resources
